@@ -9,9 +9,21 @@ EditorBuildSettings:
     path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/Scenes/Marker.unity
-    guid: b718a156f845dec4e8971b8291ded1cc
+    path: Assets/Scenes/Main.unity
+    guid: c58c74a3011d1b54883f63dc64c1cfd2
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 32ba85f5f47ddd2498755abb688aa9f5
+  - enabled: 1
+    path: Assets/Scenes/Marker.unity
+    guid: b718a156f845dec4e8971b8291ded1cc
+  - enabled: 1
+    path: Assets/Scenes/CustardInfo.unity
+    guid: ffa33ce0d5184bf4fb15b7d72f5ef289
+  - enabled: 1
+    path: Assets/Scenes/BullringInfo.unity
+    guid: e036968cfa70d29468dab463360f92f7
+  - enabled: 1
+    path: Assets/Scenes/GreatWA MARKER.unity
+    guid: 9de7bb3477ddcdf45ab78f35d76e4133
   m_configObjects: {}

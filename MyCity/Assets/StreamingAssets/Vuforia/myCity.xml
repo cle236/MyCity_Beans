@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="24" size="1.000000 0.758454" />
+    <ImageTarget name="GWA" size="1.000000 0.918392" />
+    <ImageTarget name="custard" size="1.000000 1.777778" />
     <ImageTarget name="18437-187167" size="1280.000000 848.391235" />
   </Tracking>
 </QCARConfig>
